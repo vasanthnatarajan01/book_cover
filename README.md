@@ -1,5 +1,6 @@
 # Ex.06 Book Front Cover Page Design
-# Date:
+## Name: VASANTH N
+# Date: 25/04/2025
 # AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -29,6 +30,11 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+
+
+
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/9eb278e6-0b57-4572-b5f4-30dc2386f7cb)
+
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
